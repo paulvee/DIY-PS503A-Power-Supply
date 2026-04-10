@@ -6,5 +6,6 @@ Dual tracking 0-20V 0-600mA with tracking over-voltage protection.
 Extended information can be found on my Blog:
 
 https://www.paulvdiyblogs.net/2026/03/diy-ps503a-construction.html
+
 https://www.paulvdiyblogs.net/2025/12/diy-ps503a-rebuild-prototype.html
 
